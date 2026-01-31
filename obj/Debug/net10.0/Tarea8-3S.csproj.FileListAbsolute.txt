@@ -1,0 +1,15 @@
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\bin\Debug\net10.0\Tarea8-3S.exe
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\bin\Debug\net10.0\Tarea8-3S.deps.json
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\bin\Debug\net10.0\Tarea8-3S.runtimeconfig.json
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\bin\Debug\net10.0\Tarea8-3S.dll
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\bin\Debug\net10.0\Tarea8-3S.pdb
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\obj\Debug\net10.0\Tarea8-3S.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\obj\Debug\net10.0\Tarea8-3S.AssemblyInfoInputs.cache
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\obj\Debug\net10.0\Tarea8-3S.AssemblyInfo.cs
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\obj\Debug\net10.0\Tarea8-3S.csproj.CoreCompileInputs.cache
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\obj\Debug\net10.0\Tarea8-3S.sourcelink.json
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\obj\Debug\net10.0\Tarea8-3S.dll
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\obj\Debug\net10.0\refint\Tarea8-3S.dll
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\obj\Debug\net10.0\Tarea8-3S.pdb
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\obj\Debug\net10.0\Tarea8-3S.genruntimeconfig.cache
+D:\User\Desktop\MAURICIO\UEA\III SEMESTRE\Estructura de datos\semana 8\Tarea8\Tarea8-3S\obj\Debug\net10.0\ref\Tarea8-3S.dll
